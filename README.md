@@ -20,6 +20,6 @@ I love programming, writing, and sharing thought-provoking ideas—believing tha
 
 I am also a blogger to share knowledge from my [homepage](https://elecming.com/). 
 
-Support me at [paypal](paypal.me/elecming) or [email](mailto:elecming@gmail.com) me, I am happy to chat~
+Support me at [paypal](https://paypal.me/elecming) or [email](mailto:elecming@gmail.com) me, I am happy to chat~
 
 [![Damon's github stats](https://github-readme-stats.vercel.app/api?username=chenyanming)](https://github.com/anuraghazra/github-readme-stats)
