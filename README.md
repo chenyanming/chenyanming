@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Damon Chan. I live in Tokyo.
+
+I love programming, writing, and sharing thought-provoking ideas—believing that only the ideas we truly live have real value. An Emacs hacker at heart and an entrepreneur in spirit, I turn curiosity into creation and ideas into impact.
+
+I am also a blogger to share knowledge from my [homepage](https://elecming.com/). 
+
+Support me [here](https://github.com/sponsors/chenyanming) or [email](mailto:elecming@gmail.com) me, I am happy to chat~
+
+[![Damon's github stats](https://github-readme-stats.vercel.app/api?username=chenyanming)](https://github.com/anuraghazra/github-readme-stats)
