@@ -1,25 +1,29 @@
 ## Hi there 👋
 
-<!--
-**chenyanming/chenyanming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Damon Chan**, and I live in **Tokyo**.  
 
-Here are some ideas to get you started:
+I’ve been developing **Emacs plugins since 2019**, focusing on enhancing:  
+- Reading experience  
+- Book management  
+- Language learning  
+- Knowledge management  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name is Damon Chan. I live in Tokyo.
+These projects are actively maintained and I use them **every day**:  
+- [**shrface**](https://github.com/chenyanming/shrface) – Enhance Emacs reading experience  
+- [**calibredb.el**](https://github.com/chenyanming/calibredb.el) – Manage eBooks with Calibre  
+- [**wallabag.el**](https://github.com/chenyanming/wallabag.el) – Save articles to Wallabag  
+- [**paw**](https://github.com/chenyanming/paw) – Emacs integration for text capture  
+- [**paw_browser_extension**](https://github.com/chenyanming/paw_browser_extension) – Chrome extension for Paw  
 
-I love programming, writing, and sharing thought-provoking ideas—believing that only the ideas we truly live have real value. An Emacs hacker at heart and an entrepreneur in spirit, I turn curiosity into creation and ideas into impact.
+I am a **full-time solo developer**.  
+If you enjoy my work, you can support me:  
+- [Sponsor me on GitHub](https://github.com/sponsors/chenyanming)  
+- Buy me a coffee ☕  
 
-I am also a blogger to share knowledge from my [homepage](https://elecming.com/). 
+Your support helps me **maintain and improve these projects sustainably**.  
 
-Support me at [paypal](https://paypal.me/elecming) or [email](mailto:elecming@gmail.com) me, I am happy to chat~
+Thank you!  
 
-[![Damon's github stats](https://github-readme-stats.vercel.app/api?username=chenyanming)](https://github.com/anuraghazra/github-readme-stats)
+— Damon  
+
+[![Damon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyanming)](https://github.com/anuraghazra/github-readme-stats)
