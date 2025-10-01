@@ -12,7 +12,7 @@ These projects are actively maintained and I use them **every day**:
 - [**shrface**](https://github.com/chenyanming/shrface) – Enhance Emacs reading experience  
 - [**calibredb.el**](https://github.com/chenyanming/calibredb.el) – Manage eBooks with Calibre  
 - [**wallabag.el**](https://github.com/chenyanming/wallabag.el) – Save articles to Wallabag  
-- [**paw**](https://github.com/chenyanming/paw) – Emacs integration for text capture  
+- [**paw**](https://github.com/chenyanming/paw) – Emacs integration for note taking and language learning
 - [**paw_browser_extension**](https://github.com/chenyanming/paw_browser_extension) – Chrome extension for Paw  
 
 I am a **full-time solo developer**.  
@@ -20,7 +20,13 @@ If you enjoy my work, you can support me:
 - [Sponsor me on GitHub](https://github.com/sponsors/chenyanming)  
 - Buy me a coffee ☕  
 
+I’ve been practicing blogging lately and look forward to sharing more of my experiences.  
+Follow me at [elecming.com](https://elecming.com/) and on [Twitter](https://twitter.com/elecming).
+
+
 Your support helps me **maintain and improve these projects sustainably**.  
+
+
 
 Thank you!  
 
