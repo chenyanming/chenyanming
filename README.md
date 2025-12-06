@@ -44,4 +44,3 @@ Follow me:
 Thank you for your support.
 — Damon
 
-[![Damon's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenyanming)](https://github.com/anuraghazra/github-readme-stats)
