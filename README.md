@@ -36,8 +36,8 @@ I’ve been actively writing about development, Emacs, and building tools as a s
 
 Follow me:
 
-* **Blog:** [https://nomadnahc.com/](https://nomadnahc.com/)
-* **X:** [https://x.com/nomadnahc](https://x.com/nomadnahc)
+* **LinkedIn:** [@nomadnahc](https://www.linkedin.com/in/nomadnahc)
+* **X:** [@nomadnahc](https://x.com/nomadnahc)
 
 ---
 
