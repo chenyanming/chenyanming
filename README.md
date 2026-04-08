@@ -17,7 +17,7 @@ I use these projects **every day**, and they continue to evolve:
 * **[paw_server](https://github.com/chenyanming/paw_server)** – Local server for Emacs eval & org-protocol workflows
 * **[paw_browser_extension](https://github.com/chenyanming/paw_browser_extension)** – Browser extension for Emacs automation
 
-I’m also the founder of **[Consenger](https://consenger.com)**, raise your own digital companion! It begins as a pixel pet inspired by classic virtual pet games, with short language games and simple mini-games that help it grow.
+I’m also the founder of **[Consenger](https://consenger.com)** - Discover interactive games and a digital companion that make learning fun and rewarding.
 
 ---
 
