@@ -16,7 +16,7 @@ I use these projects **every day**, and they continue to evolve:
 * **[paw](https://github.com/chenyanming/paw)** – AI-assisted note taking & language learning in Emacs
 * **[paw_server](https://github.com/chenyanming/paw_server)** – Local server for Emacs eval & org-protocol workflows
 * **[paw_browser_extension](https://github.com/chenyanming/paw_browser_extension)** – Browser extension for Emacs automation
-* **[Vifu](https://vifu。app)** - Play, Create, and grow with your AI companion. Companion-native agentic play, built around interactive experiences and personal growth paths.
+* **[Vifu](https://vifu。app)** - The platform for AI-Native games
 
 ---
 
