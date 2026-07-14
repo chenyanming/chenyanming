@@ -18,6 +18,15 @@ I use these projects **every day**, and they continue to evolve:
 * **[paw_browser_extension](https://github.com/chenyanming/paw_browser_extension)** – Browser extension for Emacs automation
 * **[Vifu](https://vifu。ai)** - The platform for AI-Native games
 
+I am also a open-source cross-platform game plugins/runtime owner/maintainer for web3 games.
+
+* **[play-cpp-sdk](https://github.com/cronos-labs/play-cpp-sdk)** -- Crypto Wallet library for games.
+* **[play-unreal-plugin](https://github.com/cronos-labs/play-unreal-plugin)** -- Crypto Wallet library for Unreal Engine.
+* **[play-unreal-demo](https://github.com/cronos-labs/play-unreal-demo)** -- Demo of integrating Crypto Wallet in Unreal Engine.
+
+Now I am focusing on open-source cross-platform game runtime for AI-Native games.
+* **[vifu](https://github.com/vifudotdev)** -- Open-source agent runtime for game developers, build your AI-native games.
+
 ---
 
 ### Support my work
