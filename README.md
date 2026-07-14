@@ -16,7 +16,6 @@ I use these projects **every day**, and they continue to evolve:
 * **[paw](https://github.com/chenyanming/paw)** – AI-assisted note taking & language learning in Emacs
 * **[paw_server](https://github.com/chenyanming/paw_server)** – Local server for Emacs eval & org-protocol workflows
 * **[paw_browser_extension](https://github.com/chenyanming/paw_browser_extension)** – Browser extension for Emacs automation
-* **[Vifu](https://vifu。ai)** - The platform for AI-Native games
 
 I am also a open-source cross-platform game plugins/runtime owner/maintainer for web3 games.
 
@@ -25,7 +24,8 @@ I am also a open-source cross-platform game plugins/runtime owner/maintainer for
 * **[play-unreal-demo](https://github.com/cronos-labs/play-unreal-demo)** -- Demo of integrating Crypto Wallet in Unreal Engine.
 
 Now I am focusing on open-source cross-platform game runtime for AI-Native games.
-* **[vifu](https://github.com/vifudotdev)** -- Open-source agent runtime for game developers, build your AI-native games.
+* **[vifu.dev](https://github.com/vifudotdev)** -- Open-source agent runtime for game developers, build your AI-native games.
+* **[vifu.ai](https://vifu。ai)** - open-source AI-Native games platform, deploy your AI-native games.
 
 ---
 
