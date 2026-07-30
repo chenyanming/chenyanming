@@ -24,8 +24,8 @@ I am also a open-source cross-platform game plugins/runtime owner/maintainer for
 * **[play-unreal-demo](https://github.com/cronos-labs/play-unreal-demo)** -- Demo of integrating Crypto Wallet in Unreal Engine.
 
 Now I am focusing on open-source cross-platform game runtime for AI-Native games.
-* **[vifu.dev](https://github.com/vifudotdev)** -- Open-source agent runtime for game developers, build your AI-native games.
-* **[vifu.ai](https://vifu。ai)** - open-source AI-Native games platform, deploy your AI-native games.
+* **[vifu.dev](https://github.com/vifudotdev)** -- A small, fast, stateful, and portable runtime for Agents.
+* **[vifu.ai](https://vifu。ai)** - Create and publish ai-native apps.
 
 ---
 
