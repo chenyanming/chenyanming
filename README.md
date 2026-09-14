@@ -26,6 +26,7 @@ I am also a open-source cross-platform game plugins/runtime owner/maintainer for
 Now I am focusing on AI research and engineering：
 * **[vifu.dev](https://github.com/vifudotdev/vifu)** -- A small, fast, stateful, and portable runtime for Agents.
 * **[vifu.ai](https://vifu.ai)** - Vifu Labs is an AI research and engineering company building intelligent systems for biotech and interactive products.
+* **[AlphaMind](https://github.com/chenyanming/alphamind)** - Real-time call intelligence for foreign residents handling Japanese phone calls.
 
 ---
 
